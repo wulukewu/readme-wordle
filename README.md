@@ -4,7 +4,7 @@ Welcome to my profile! This is a fully functional **Wordle** game running entire
 The target word is a **5-letter** English word. Can you guess it?
 
 ### Current Board
-![Wordle Status](./wordle_status.png?v=1768731681)
+![Wordle Status](https://raw.githubusercontent.com/wulukewu/readme-wordle/main/wordle_status.png?v=1768732370)
 
 ---
 

@@ -15,7 +15,7 @@ The target word is a **5-letter** English word. Can you guess it?
 3. Click **"Submit new issue"** (No need to type anything in the body).
 4. Wait for about **30 seconds**, then refresh this page to see the result!
 
-### [Click Here to Make a Guess](https://github.com/rayhuang2006/readme-wordle/issues/new?title=guess%3A+XXXXX&body=Just+replace+XXXXX+in+the+title+with+your+5-letter+guess+and+click+Submit!)
+### [Click Here to Make a Guess](https://github.com/wulukewu/readme-wordle/issues/new?title=guess%3A+XXXXX&body=Just+replace+XXXXX+in+the+title+with+your+5-letter+guess+and+click+Submit!)
 
 ---
 

@@ -29,7 +29,7 @@ def update_readme_from_template():
 
     timestamp = int(time.time())
 
-    repo_url = "https://raw.githubusercontent.com/rayhuang2006/readme-wordle/main/wordle_status.png"
+    repo_url = "https://raw.githubusercontent.com/wulukewu/readme-wordle/main/wordle_status.png"
     image_markdown = f"![Wordle Status]({repo_url}?v={timestamp})"
 
     new_content = template_content.replace("{{WORDLE_STATUS}}", image_markdown)

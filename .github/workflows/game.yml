@@ -56,7 +56,7 @@ jobs:
           issue-number: ${{ github.event.issue.number }}
           body: |
             猜測已收到！結果已更新到 README。
-            ![Wordle Status](https://github.com/${{ github.repository }}/blob/master/wordle_status.png?raw=true)
+            ![Wordle Status](https://github.com/${{ github.repository }}/blob/main/wordle_status.png?raw=true)
             
             (這是一個測試回應)
           
